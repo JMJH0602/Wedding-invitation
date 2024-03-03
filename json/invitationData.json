@@ -6,9 +6,9 @@
   },
   "client" : {
     "groom" : {
-      "name" :  "김신랑",
-      "phoneNumber" : "010-0101-0101",
-      "bank" : "우리은행",
+      "name" :  "박종민",
+      "phoneNumber" : "010-8906-4071",
+      "bank" : "신한은행",
       "accountNumber" : "0000-0000-0000",
       "kakaoPay" : "https://qr.kakaopay.com/281006011152811201008007",
       "rank" : "차남"
@@ -22,7 +22,7 @@
       "rank" : "장녀"
     }
   },
-  "weddingDate" : "2023/01/15",
+  "weddingDate" : "2024/06/02",
   "time" : "오후 2시 30분",
   "place" : "수원 파티웨딩유",
   "lat" : 37.2715326,
